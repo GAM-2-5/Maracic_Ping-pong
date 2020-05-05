@@ -1,0 +1,1 @@
+Sada nisam ništa novo dodao samo sam ispravio jednu malu grešku koju sam primjetio radeći screencast, a ona je da bez obzira koji igrač prvi skupi deset bodova, uvijek se ispiše poruka da je Igrač_1 pobijedio jer sam prilikom kopiranja dijela koda zabunom zaboravio promijeniti da ako Igrač_2 skupi deset bodova, on će biti proglašen pobjednikom.
